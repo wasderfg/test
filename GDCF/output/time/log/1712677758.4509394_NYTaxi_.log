@@ -1,0 +1,1 @@
+2024-04-09 23:49:18,451 - root - INFO - Namespace(data='NYTaxi', emd_path='', seed=0, suffix='', best='', n_epoch=2, lr=0.001, patience=20, device='cpu', task='time', loss='mse')

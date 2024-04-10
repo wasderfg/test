@@ -1,0 +1,1 @@
+2024-04-09 23:39:24,680 - root - INFO - Namespace(data='NYTaxi', seed=0, suffix='', best='', n_epoch=200000, lr=0.0001, patience=20, device='cuda:2', model='GDCF', message_dim=128, memory_dim=128, lambs=[1.0])
